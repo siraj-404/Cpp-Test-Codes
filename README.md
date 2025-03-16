@@ -1,49 +1,26 @@
-# Hypot Program
+# C++ Test Codes 🚀
 
-## Description
-The Hypot Program calculates the hypotenuse of a right-angled triangle given the lengths of the other two sides using the Pythagorean theorem.
+Welcome to the **cpp-test-codes** repository! This repo serves as a playground where I test my C++ programming skills by solving problems, experimenting with new concepts, and writing practice code.
 
-## Features
-- Input the lengths of the two sides of a right-angled triangle.
-- Calculate the hypotenuse.
-- Display the result.
+## 🏗️ About This Repository
+- Contains various C++ programs to practice coding techniques.
+- Covers algorithms, data structures, problem-solving, and more.
+- Each file focuses on a specific concept, challenge, or experiment.
 
-## Installation
+## 💡 How to Use
 1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/hypot.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd hypot
-    ```
-3. Compile the program:
-    ```sh
-    g++ -o hypot main.cpp
-    ```
+   ```bash
+   git clone https://github.com/siraj-404/cpp-test-codes.git
+   ```
+2. Navigate to the desired folder and compile any file:
+   ```bash
+   g++ filename.cpp -o output
+   ./output
+   ```
 
-## Usage
-1. Run the program:
-    ```sh
-    ./hypot
-    ```
-2. Follow the on-screen instructions to input the lengths of the two sides.
+## 📬 Contact Me
+- **GitHub:** [Siraj Uddin](https://github.com/siraj-404)
+- **Email:** siraj733355@gmail.com
 
-## Example
-```sh
-Enter the length of the first side: 3
-Enter the length of the second side: 4
-The length of the hypotenuse is: 5
-```
+Happy coding! 🌟
 
-## Contributing
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add some feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Open a pull request.
-
-
-## Acknowledgements
-- [Pythagorean Theorem](https://en.wikipedia.org/wiki/Pythagorean_theorem)
