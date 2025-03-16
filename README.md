@@ -20,7 +20,7 @@ Welcome to the **cpp-test-codes** repository! This repo serves as a playground w
 
 ## 📬 Contact Me
 - **GitHub:** [Siraj Uddin](https://github.com/siraj-404)
-- **Email:** siraj733355@gmail.com
+- **Email:** sirajuddin.dev@gmail.com
 
 Happy coding! 🌟
 
